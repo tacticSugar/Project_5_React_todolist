@@ -1,4 +1,4 @@
-# React project for the React course
+Second "todo" app made with React. <a href="https://react-todo-ver2.herokuapp.com/">Check here</a>
 
 ## Available Scripts
 
